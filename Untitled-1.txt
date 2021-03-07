@@ -1,0 +1,5 @@
+router::get(´user/edit/{id}´, function (&id){
+    retun &id
+}
+
+}
